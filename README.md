@@ -8,6 +8,8 @@ https://ohwr.org/cern_ohl_s_v2.txt
 
 MORE INFO WILL BE ADDED, SOON
 
+WARNING: As is design, is to tall (about 3mm) and do not allow the QL Case to be closed. BE AWARE
+
 ## Intro
 
 This board consist in 2 part (shall be 3, really)
@@ -16,7 +18,7 @@ A board that replace the 2 ROMS of the Sinclair QL. use a 39SF040 (512kb, 8x64kb
 
 A board that allow to program the EEPROM Chip in a standar chip programmer.
 
-A optional small board to glue in the outside of Sinclair QL (with dual side tape) and allow easy switch of the ROM
+A optional small board to glue in the outside of Sinclair QL (with dual side tape) and allow easy switch of the ROM, this board is not included, because I use a simple breadboard, with a 4 DIP Switch, and 6 cables that go to 5 back pines of the main board, the 4 pins in the border are not used.
 
 ## Instructions
 
