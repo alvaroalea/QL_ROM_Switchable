@@ -30,7 +30,27 @@ Remove all J1 jumpers to program the chip.
 
 Insert the main board into the programer board, and insert both in the programer to program it.
 
-![My image](top.png)
+![My image](img/top.png)
 
-![My image](botton.png)
+![My image](img/botton.png)
+
+## The real thing
+
+The board installed on the QL:
+
+![My image](img/installed.png)
+
+Detail of the switch on back to select the ROM:
+
+![My image](img/switch.png)
+
+The adapter on programmer:
+
+![My image](img/adapter.png)
+
+The board in the adapter ready to burn, check the J2 without jumpers.
+
+![My image](img/readytoburn.png)
+
+
 
