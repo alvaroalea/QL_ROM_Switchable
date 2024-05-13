@@ -38,19 +38,19 @@ Insert the main board into the programer board, and insert both in the programer
 
 The board installed on the QL:
 
-![My image](img/installed.png)
+![My image](img/installed.jpg)
 
 Detail of the switch on back to select the ROM:
 
-![My image](img/switch.png)
+![My image](img/switch.jpg)
 
 The adapter on programmer:
 
-![My image](img/adapter.png)
+![My image](img/adapter.jpg)
 
 The board in the adapter ready to burn, check the J2 without jumpers.
 
-![My image](img/readytoburn.png)
+![My image](img/readytoburn.jpg)
 
 
 
