@@ -2766,7 +2766,7 @@
     )
     (pin "1" (uuid 4867b2a7-a6cd-4a73-bc16-5cd7ba650fbc))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "#PWR01") (unit 1)
         )
@@ -2804,7 +2804,7 @@
     (pin "12" (uuid 5b736b65-d85e-47c7-826d-ec39faeba8c5))
     (pin "13" (uuid 7df1df7c-6e34-4131-b93c-28a9c433e158))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "U3") (unit 3)
         )
@@ -2860,7 +2860,7 @@
     (pin "8" (uuid d1be0188-d4f8-454c-a308-8a67c71cf582))
     (pin "9" (uuid c60f507d-3a64-494b-89c1-85aa7ddaf356))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "U5") (unit 1)
         )
@@ -2886,7 +2886,7 @@
     (pin "1" (uuid a5393006-befb-42b8-885a-a673d5f6141b))
     (pin "2" (uuid 1ae6a5d0-4826-4f13-b70c-f5b7d59ad74c))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "R4") (unit 1)
         )
@@ -2911,7 +2911,7 @@
     )
     (pin "1" (uuid d58bae26-3cb1-4a8d-8b9c-a451ddd7a969))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "#PWR05") (unit 1)
         )
@@ -2949,7 +2949,7 @@
     (pin "14" (uuid 33ec18e8-97ef-4e5a-923c-c61ac4d63145))
     (pin "7" (uuid 1a2f68a4-e051-4282-9609-abe5b72de797))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "U3") (unit 2)
         )
@@ -2981,7 +2981,7 @@
     (pin "7" (uuid 6fea4032-8257-4c9c-a3bb-98e8a609c926))
     (pin "8" (uuid 783d3e53-8722-4c0c-8a9b-c5b7b230e612))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "J1") (unit 1)
         )
@@ -3006,7 +3006,7 @@
     )
     (pin "1" (uuid 1b05a1df-8d21-4a68-b52e-c4570f0d4787))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "#PWR0101") (unit 1)
         )
@@ -3031,7 +3031,7 @@
     )
     (pin "1" (uuid cb8d59c0-47ee-4641-92e9-b2a5175b4af9))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "#PWR0103") (unit 1)
         )
@@ -3056,7 +3056,7 @@
     )
     (pin "1" (uuid 80e4d804-c071-4078-bb56-7b7882c418c4))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "#PWR06") (unit 1)
         )
@@ -3081,7 +3081,7 @@
     )
     (pin "1" (uuid a2d9969c-28d2-460c-be63-5881472f94d4))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "#PWR04") (unit 1)
         )
@@ -3106,7 +3106,7 @@
     )
     (pin "1" (uuid 64a41036-ec44-46c0-bc4e-b880b2597803))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "#PWR02") (unit 1)
         )
@@ -3136,7 +3136,7 @@
     (pin "5" (uuid 1853ae89-54db-4a23-a556-7427ca0ca359))
     (pin "6" (uuid 574969f2-e246-407b-8a1e-1a902afb894f))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "J3") (unit 1)
         )
@@ -3188,7 +3188,7 @@
     (pin "8" (uuid 661379c1-1d0b-40fd-bbff-f4ba22f28949))
     (pin "9" (uuid 94cee1d4-587e-4c53-b6e4-4e25df8bf56b))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "U4") (unit 1)
         )
@@ -3214,7 +3214,7 @@
     (pin "1" (uuid 05a01591-57c3-4c99-be30-00c2059fa5bf))
     (pin "2" (uuid 9cd3dce2-d6b8-40fa-a830-806e4a174131))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "R1") (unit 1)
         )
@@ -3239,7 +3239,7 @@
     )
     (pin "1" (uuid f080c537-71c6-4dd9-bb4a-555a57d72838))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "J5") (unit 1)
         )
@@ -3277,7 +3277,7 @@
     (pin "12" (uuid d3f50c52-81b8-4a9f-90ba-09c023c4fb74))
     (pin "13" (uuid 6b0f1167-468d-4854-8d75-ad977b6f967d))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "U3") (unit 5)
         )
@@ -3303,7 +3303,7 @@
     (pin "1" (uuid 74a9a70d-d2c2-47dc-868f-57949d22cc27))
     (pin "2" (uuid b46fcc9c-295d-40b6-9553-7f9046b117b6))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "R2") (unit 1)
         )
@@ -3333,7 +3333,7 @@
     (pin "5" (uuid ea379ef4-9012-4554-ac70-1616ff1f00e7))
     (pin "6" (uuid 0016304a-7efb-466c-b460-e19288c750ee))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "J4") (unit 1)
         )
@@ -3358,7 +3358,7 @@
     )
     (pin "1" (uuid 6e2d50f1-8994-4494-a5f0-5726d3ecca00))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "#PWR0102") (unit 1)
         )
@@ -3388,7 +3388,7 @@
     (pin "5" (uuid 65491ffe-cb95-43a4-914f-f9e6dd4a8984))
     (pin "6" (uuid b5cdacd8-ae55-449e-a0aa-00477ea96f3f))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "J2") (unit 1)
         )
@@ -3413,7 +3413,7 @@
     )
     (pin "1" (uuid 871668bc-07f7-44b1-b163-66f1027fec48))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "#PWR03") (unit 1)
         )
@@ -3465,7 +3465,7 @@
     (pin "8" (uuid 51fcb2be-31c8-4ec5-b16e-aac6171a52e3))
     (pin "9" (uuid f594f38c-6b20-484b-a2fe-898e8eb1e0eb))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "U1") (unit 1)
         )
@@ -3503,7 +3503,7 @@
     (pin "2" (uuid 14b61113-c286-4179-ac7d-6b7e4056266f))
     (pin "3" (uuid c9997480-8de0-41dd-b801-2331d394fa82))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "U3") (unit 4)
         )
@@ -3529,7 +3529,7 @@
     (pin "1" (uuid 24ee79c0-a4f5-48d3-9bae-a8b851aa0bbe))
     (pin "2" (uuid 1ef54e5e-fc76-4254-b440-b4b43d062cbd))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "R3") (unit 1)
         )
@@ -3585,7 +3585,7 @@
     (pin "8" (uuid 537e8a07-4e7e-48a8-a93d-81c1c53b5bfa))
     (pin "9" (uuid 0b495bc6-3ae7-41d5-a03a-f5b9e9f07e97))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "U2") (unit 1)
         )
@@ -3611,7 +3611,7 @@
     (pin "1" (uuid 24eacca3-c910-400e-8824-43fa03997a54))
     (pin "2" (uuid 542b0ea2-3bec-4bb0-883c-7d5a990c37cf))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "C1") (unit 1)
         )
@@ -3649,7 +3649,7 @@
     (pin "14" (uuid 52c739b2-f2b6-48fe-9ac4-c1d901293a00))
     (pin "7" (uuid a800918e-d364-4829-a04b-73cfad1a4ef4))
     (instances
-      (project "QL_ROM_Swichable"
+      (project "QL_ROM_Switchable"
         (path "/021fa93f-4852-440b-87fa-cdc666138933"
           (reference "U3") (unit 1)
         )
