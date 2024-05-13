@@ -22,6 +22,8 @@ A optional small board to glue in the outside of Sinclair QL (with dual side tap
 
 ## Instructions
 
+Use female, turn-pin socket in the botton of the board, and 6 male pins on the adapter for the 2x3 conector in the middle, check the height of all.
+
 J2 shall have 3 jumper 1-2, 3-4 and 5-6 for normal use, remove the 3 jumpers to program the chip.
 
 J1 pins 1-2 are to enable the top 16Kb of memory, normally with Toolkit II, remove to use the external ROM Cartridge slot (for QIMSI, MICE and others)
